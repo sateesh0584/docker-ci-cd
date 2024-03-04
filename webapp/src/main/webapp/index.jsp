@@ -32,7 +32,7 @@
   </div>
 
    <h1> Deploy Ansible Playbook using Jenkins to automate the whole process! sateesh reddy</h1>
-   <h1> Hello Sateesh Reddy!</h1>
+   <h2> Hello Sateesh Reddy!</h2>
 
   
 </form>
